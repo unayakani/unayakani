@@ -2,7 +2,7 @@
 <br>
 <img src="name.png" alt="Name"/>
 <br>
-![Software](software.png)
+<img src="software.png" alt="Software"/>
 <br>
 <br>
 Used to do a lot of Blender. Currently doing a lot of python.
