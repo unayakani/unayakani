@@ -1,6 +1,6 @@
 <img src="ani.png" alt="Logo" width="200"/>
 <br>
-![Name](name.png)
+<img src="name.png" alt="Name"/>
 <br>
 ![Software](software.png)
 <br>
