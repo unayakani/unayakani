@@ -1,4 +1,4 @@
-![Logo](ani.png)
+<img src="ani.png" alt="Logo" width="200"/>
 <br>
 ![Name](name.png)
 <br>
