@@ -12,7 +12,7 @@
 <br>
 <br>
 Used to do a lot of Blender. Currently doing a lot of python.
-### Artwork portfolio
+<h1>Artwork Porfolio</h1>
 https://artstation.com/unayakani
-### Programming portfolio
+<h1>Programming Portfolio</h1>
 👇
