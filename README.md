@@ -1,3 +1,5 @@
+![Logo](ani.png)
+<br>
 ![Name](name.png)
 <br>
 ![Software](software.png)
