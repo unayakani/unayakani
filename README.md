@@ -1,5 +1,5 @@
 <div>
-<img src="nord_mask.png" alt="Logo" width="200"/>
+<img src="nord_mask.png" alt="Logo" width="1000"/>
 </div>
 <br>
 <div>
