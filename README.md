@@ -24,5 +24,5 @@ https://artstation.com/unayakani
 </ul>
 <h1>Other</h1>
 <ul>
-  <a href="https://github.com/unayakani/wallpapers">Wallpapers</a>
+  <li><a href="https://github.com/unayakani/wallpapers">Wallpapers</a></li>
 </ul>
