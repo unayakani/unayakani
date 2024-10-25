@@ -23,6 +23,7 @@ Used to do a lot of Blender. Currently doing a lot of python.
   <li><a href="https://github.com/unayakani/Projectile-Trajectory-Plotter">Projectile Trajectory Plotter</a></li>
   <li><a href="https://github.com/unayakani/Hangman">Hangman</a></li>
   <li><a href="https://github.com/unayakani/Password-Generator">Password generator</a></li>
+  <li><a href="https://github.com/unayakani/Yay-GUI">Yay GUI</a></li>
 </ul>
 <!--
 <h1>Other</h1>
