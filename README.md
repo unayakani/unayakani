@@ -14,7 +14,7 @@
 Used to do a lot of Blender. Currently doing a lot of python.
 <br><br><br>
 <div>
-<img src="prog.png" alt="Programming Portfolio" width="500"/>
+<img src="prog.png" alt="Programming Portfolio" height="50"/>
 </div>
 <br>
 <ul>
@@ -27,19 +27,20 @@ Used to do a lot of Blender. Currently doing a lot of python.
 <!--
 <h1>Other</h1>
 -->
-<br><br><br>
+<br><br>
 <div>
-<img src="other.png" alt="Other" width="500"/>
+<img src="other.png" alt="Other" height="40"/>
 </div>
+<br>
 <ul>
   <li><a href="https://github.com/unayakani/wallpapers">Wallpapers</a></li>
 </ul>
-
 <!--
 <h1>Artwork Portfolio</h1>
 -->
-<br><br><br>
+<br><br>
 <div>
-<img src="art.png" alt="Artwork Portfolio" width="500"/>
+<img src="art.png" alt="Artwork Portfolio" height="40"/>
 </div>
+<br>
 https://artstation.com/unayakani
