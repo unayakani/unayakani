@@ -48,4 +48,4 @@ Used to do a lot of Blender. Currently doing a lot of python.
 <img src="art.png" alt="Artwork Portfolio" height="40"/>
 </div>
 <br>
-https://artstation.com/unayakani
+<a href="https://artstation.com/unayakani">Artstation</a>
