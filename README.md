@@ -21,6 +21,7 @@ https://artstation.com/unayakani
   <li><a href="https://github.com/unayakani/Monty-Hall-Simulator">Monty Hall Simulator</a></li>
   <li><a href="https://github.com/unayakani/Projectile-Trajectory-Plotter">Projectile Trajectory Plotter</a></li>
   <li><a href="https://github.com/unayakani/Hangman">Hangman</a></li>
+  <li><a href="https://github.com/unayakani/Password-Generator">Password generator</a></li>
 </ul>
 <h1>Other</h1>
 <ul>
