@@ -14,7 +14,7 @@
 Used to do a lot of Blender. Currently doing a lot of python.
 <h1>Artwork Porfolio</h1>
 https://artstation.com/unayakani
-<h1 style="color:#6b3ae8;>Programming Portfolio</h1>
+<h1>Programming Portfolio</h1>
 <br>
 <ul>
   <li><a href="https://github.com/unayakani/3D22D">3D22D</a></li>
