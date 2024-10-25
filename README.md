@@ -38,6 +38,7 @@ Used to do a lot of Blender. Currently doing a lot of python.
 <br>
 <ul>
   <li><a href="https://github.com/unayakani/wallpapers">Wallpapers</a></li>
+  <li><a href="https://github.com/unayakani/LaTeX">LaTeX workflow</li>
 </ul>
 <!--
 <h1>Artwork Portfolio</h1>
