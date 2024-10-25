@@ -12,6 +12,7 @@
 <br>
 <br>
 Used to do a lot of Blender. Currently doing a lot of python.
+<br>
 
 <div>
 <img src="prog.png" alt="Programming Portfolio" width="500"/>
