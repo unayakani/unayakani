@@ -12,11 +12,10 @@
 <br>
 <br>
 Used to do a lot of Blender. Currently doing a lot of python.
+
 <div>
-<img src="prog.png" alt="Programming Portfolio" width="200"/>
+<img src="prog.png" alt="Programming Portfolio" width="500"/>
 </div>
-https://artstation.com/unayakani
-<h1>Programming Portfolio</h1>
 <br>
 <ul>
   <li><a href="https://github.com/unayakani/3D22D">3D22D</a></li>
@@ -29,3 +28,6 @@ https://artstation.com/unayakani
 <ul>
   <li><a href="https://github.com/unayakani/wallpapers">Wallpapers</a></li>
 </ul>
+
+<h1>Artwork Portfolio</h1>
+https://artstation.com/unayakani
